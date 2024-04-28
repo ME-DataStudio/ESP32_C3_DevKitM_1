@@ -16,4 +16,4 @@ load:0x3fcd5810,
 len:0x438  
 ets_loader.c  
 
-See also: https://github.com/espressif/arduino-esp32/issues/6013
+See also: https://github.com/espressif/arduino-esp32/issues/6013 (in particular answer bb-pnw commented on Jan 21, 2022).
