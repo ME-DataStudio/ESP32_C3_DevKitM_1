@@ -15,4 +15,5 @@ clock div:1
 load:0x3fcd5810,  
 len:0x438  
 ets_loader.c  
-78
+
+See also: https://github.com/espressif/arduino-esp32/issues/6013
